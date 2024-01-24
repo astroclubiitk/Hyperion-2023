@@ -1,6 +1,6 @@
 # Hyperion-2023
 
-![poster](./poster.jpg)
+![poster](./poster.png)
 
 ## Introduction
 
